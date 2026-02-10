@@ -13,6 +13,7 @@ Random Initialization: Pieces are placed randomly on the board at the start of t
 Input Validation: User inputs are validated for correct moves and positions.
 
 Game Rules
+
 The game is played on a 7x7 board.
 Each player has a set number of pieces, placed randomly on the board at the start of the game.
 Players take turns to move one of their pieces to an adjacent empty space (horizontally or vertically).
