@@ -1,6 +1,7 @@
 Turn-Based Strategy Game with Minimax AI
 
 Overview
+
 This project is a simple turn-based strategy game played on a 7x7 board. The game features two players: Player 1, which is controlled by the user, and Player 2, which is controlled by a computer AI using the minimax algorithm with alpha-beta pruning. The objective of the game is to strategically move pieces on the board and prevent the opponent from making valid moves.
 
 Features
